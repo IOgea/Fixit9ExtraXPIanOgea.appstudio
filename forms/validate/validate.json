@@ -1,0 +1,134 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "action": "",
+  "attributes": "",
+  "background": "",
+  "backgroundimage": "",
+  "borderColor": "transparent",
+  "borderStyle": "",
+  "borderWidth": 0,
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "validate",
+        "Elements",
+        "inptName.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "validate",
+        "Elements",
+        "inptPhone.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "validate",
+        "Elements",
+        "inptEmail.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "validate",
+        "Elements",
+        "inptSSN.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "validate",
+        "Elements",
+        "lblName.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "validate",
+        "Elements",
+        "lblPhone.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "validate",
+        "Elements",
+        "lblEmail.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "validate",
+        "Elements",
+        "lblSSN.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "validate",
+        "Elements",
+        "alrtValid.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "validate",
+        "Elements",
+        "vdtrInput.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "events": "onshow",
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": 460,
+  "id": "validate",
+  "language": "JavaScript",
+  "left": 0,
+  "locked": false,
+  "method": "GET",
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "validate.onshow()",
+  "onsubmit": "",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "scroll_options": "mouseWheel:true,  bounce:true, zoom:false",
+  "scrolling": "false",
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": 0,
+  "width": 320
+}
