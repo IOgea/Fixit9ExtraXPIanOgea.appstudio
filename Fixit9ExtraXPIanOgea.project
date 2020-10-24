@@ -34,6 +34,14 @@
             "validate",
             "validate.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "validate1",
+            "validate1.json"
+          ]
         }
       ],
       "configxml": null,
@@ -55,7 +63,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "validate",
+      "firstform": "validate1",
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",

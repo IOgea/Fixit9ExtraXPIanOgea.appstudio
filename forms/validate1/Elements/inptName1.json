@@ -10,9 +10,9 @@
   "expanded_pmp": null,
   "height": 30,
   "hidden": "",
-  "id": "inptName",
+  "id": "inptName1",
   "items": 8,
-  "left": 32,
+  "left": 28,
   "minLength": 1,
   "name": "",
   "onchange": "",
@@ -39,6 +39,6 @@
   "validationMessage": "one\ntwo\nthree",
   "validatorAction": "keyup, blur",
   "validatorMessage": "Required Field!",
-  "validatorRule": "required\nnotNumber",
+  "validatorRule": "required",
   "width": 150
 }
